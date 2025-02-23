@@ -3,6 +3,8 @@ Design a mobile application that enables the user to create and manage contacts 
 
 ## Resources
 
+### Kotlin
+
 https://kotlinlang.org/docs/home.html
 
 https://openclassrooms.com/fr/courses/5353106-initiez-vous-a-kotlin
