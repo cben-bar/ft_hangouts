@@ -8,3 +8,10 @@ Design a mobile application that enables the user to create and manage contacts 
 https://kotlinlang.org/docs/home.html
 
 https://openclassrooms.com/fr/courses/5353106-initiez-vous-a-kotlin
+
+## Other
+
+https://fr.wikipedia.org/wiki/SOLID_(informatique)
+
+https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas
+
