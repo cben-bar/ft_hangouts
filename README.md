@@ -5,11 +5,25 @@ Design a mobile application that enables the user to create and manage contacts 
 
 ### Kotlin
 
-https://kotlinlang.org/docs/home.html
+https://kotlinlang.org/
 
 https://openclassrooms.com/fr/courses/5353106-initiez-vous-a-kotlin
 
+### Android Studio
+
+https://developer.android.com/studio
+
+https://developer.android.com/studio/install
+
+https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf
+
+https://openclassrooms.com/fr/courses/8150246-developpez-votre-premiere-application-android-1
+
 ## Other
+
+https://developer.android.com/studio/debug/dev-options.html#enable
+
+https://developer.android.com/studio/run/device#setting-up
 
 https://fr.wikipedia.org/wiki/SOLID_(informatique)
 
