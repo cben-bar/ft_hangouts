@@ -7,6 +7,8 @@ Design a mobile application that enables the user to create and manage contacts 
 
 https://kotlinlang.org/
 
+https://play.kotlinlang.org/#eyJ2ZXJzaW9uIjoiMi4xLjEwIiwicGxhdGZvcm0iOiJqYXZhIiwiYXJncyI6IiIsIm5vbmVNYXJrZXJzIjp0cnVlLCJ0aGVtZSI6ImlkZWEiLCJjb2RlIjoiLyoqXG4gKiBZb3UgY2FuIGVkaXQsIHJ1biwgYW5kIHNoYXJlIHRoaXMgY29kZS5cbiAqIHBsYXkua290bGlubGFuZy5vcmdcbiAqL1xuZnVuIG1haW4oKSB7XG4gICAgcHJpbnRsbihcIkhlbGxvLCB3b3JsZCEhIVwiKVxufSJ9
+
 https://openclassrooms.com/fr/courses/5353106-initiez-vous-a-kotlin
 
 ### Android Studio
